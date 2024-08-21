@@ -1,0 +1,13 @@
+.layout-slider-root {
+    height: 100%;
+    position: relative;
+
+    .slider-switch {
+        position: absolute;
+        bottom: 16px;
+        left: 16px;
+    }
+    .slider-menu{
+        height: 100%;
+    }
+}
